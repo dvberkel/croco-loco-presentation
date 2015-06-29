@@ -1,0 +1,44 @@
+.crocodile > .crocodile {
+    display: inline-block;
+    width: 300px;
+    height: 280px;
+    background-color: red;
+}
+
+.crocodile.tail {
+    background-image: url('../image/croco-body.png');
+    background-size: 610px;
+}
+
+.crocodile.head {
+    background-image: url('../image/croco-body.png');
+    background-size: 610px;
+}
+
+.crocodile.tail.alice {
+    background-position: 0 0;
+}
+.crocodile.head.alice {
+    background-position: 305px 0;
+}
+
+.crocodile.tail.bob {
+    background-position: 0 280px;
+}
+.crocodile.head.bob {
+    background-position: 305px 280px;
+}
+
+.crocodile.tail.carol {
+    background-position: 0 560px;
+}
+.crocodile.head.carol {
+    background-position: 305px 560px;
+}
+
+.crocodile.tail.dave {
+    background-position: 0 840px;
+}
+.crocodile.head.dave {
+    background-position: 305px 840px;
+}
