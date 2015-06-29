@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Random Number are Important",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
