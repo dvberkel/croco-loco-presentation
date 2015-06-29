@@ -10,6 +10,24 @@
     background-size: 610px;
 }
 
+.crocodile.body {
+    background-image: url('../image/croco-back.png');
+    background-size: 490px;
+    width: 150px;
+}
+
+.crocodile.body {
+    background-position: 0 0;
+}
+
+.crocodile.body.stone {
+    background-position: 325px; 0;
+}
+
+.crocodile.body.stones {
+    background-position: 160px 0;
+}
+
 .crocodile.head {
     background-image: url('../image/croco-body.png');
     background-size: 610px;
