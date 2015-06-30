@@ -13,5 +13,11 @@
     },
     "crocodile-eating.html",
     "crocodile-belly.1.html",
-    "crocodile-belly.2.html"
+    "crocodile-belly.2.html",
+    "dice.air.html",
+    "dice.land.html",
+    "dice.water.html",
+    "dice.joker.html",
+    "dice.pass.html",
+    "dice.steal.html"
 ]

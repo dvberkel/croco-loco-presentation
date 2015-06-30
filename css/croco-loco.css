@@ -85,3 +85,37 @@
     background-image: url('../image/croco-water.png');
     background-size: 645px;
 }
+
+.crocodile.dice {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 290px;
+    background-color: red;
+    background-image: url('../image/croco-dice.png');
+    background-size: 1800px;
+}
+
+.crocodile.dice.air {
+    background-position-x: 1500px;
+}
+
+.crocodile.dice.land {
+    background-position-x: 0;
+}
+
+.crocodile.dice.water {
+    background-position-x: 1200px;
+}
+
+.crocodile.dice.joker {
+    background-position-x: 900px;
+}
+
+.crocodile.dice.pass {
+    background-position-x: 600px;
+}
+
+.crocodile.dice.steal {
+    background-position-x: 300px;
+}
