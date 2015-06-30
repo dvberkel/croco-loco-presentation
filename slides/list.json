@@ -1,5 +1,4 @@
 [
-    "index.md",
     "winning-croco-loco.md",
     "crocodile-alice.html",
     "crocodile-bob.html",
@@ -27,6 +26,8 @@
     "dice.joker.html",
     "dice.pass.html",
     "dice.steal.html",
+    "backs.md",
     "table.html",
-    "mock.table.html"
+    "mock.table.html",
+    "table.html"
 ]
