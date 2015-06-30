@@ -14,7 +14,13 @@
     "crocodile-eating.html",
     "crocodile-belly.1.html",
     "crocodile-belly.2.html",
-    "backs.md",
+    {
+        "attr": {
+            "data-background-image": "image/croco-back.png",
+            "data-background-size": "240px",
+            "data-background-repeat": "repeat"
+        }
+    },
     "dice.air.html",
     "dice.land.html",
     "dice.water.html",
