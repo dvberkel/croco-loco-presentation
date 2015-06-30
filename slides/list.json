@@ -21,5 +21,6 @@
     "dice.joker.html",
     "dice.pass.html",
     "dice.steal.html",
-    "table.html"
+    "table.html",
+    "mock.table.html"
 ]
