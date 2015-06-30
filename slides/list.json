@@ -5,6 +5,12 @@
     "crocodile-bob.html",
     "crocodile-carol.html",
     "crocodile-dave.html",
+    {
+        "filename": "animals.html",
+        "attr": {
+            "data-state": "animals"
+        }
+    },
     "crocodile-belly.1.html",
     "crocodile-belly.2.html"
 ]

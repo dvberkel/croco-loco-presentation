@@ -60,3 +60,28 @@
 .crocodile.head.dave {
     background-position: 305px 885px;
 }
+
+.beautiful.animal {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 280px;
+    background-color: red;
+    transition: background-position 500ms;
+}
+
+.animal.air {
+    background-image: url('../image/croco-air.png');
+    background-size: 490px;
+}
+
+.animal.land {
+    background-image: url('../image/croco-land.png');
+    background-size: 645px;
+}
+
+.animal.water {
+    background-image: url('../image/croco-water.png');
+    background-size: 645px;
+}
