@@ -119,3 +119,53 @@
 .crocodile.dice.steal {
     background-position-x: 300px;
 }
+
+.grid.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid.cell {
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.grid.content {
+    display: inline-block;
+    width: 75px;
+    height: 140px;
+    background-color: red;
+}
+
+.grid.content.rock {
+    background-image: url("../image/croco-back.png");
+    background-size: 245px;
+}
+
+.grid.content.rock.zero {
+    background-position-x: 0;
+}
+
+.grid.content.rock.one {
+    background-position-x: 165px;
+}
+
+.grid.content.rock.two {
+    background-position-x: 80px;
+}
+
+.grid.content.body.air {
+    background-image: url("../image/croco-air.png");
+    background-size: 245px;
+}
+
+.grid.content.body.land {
+    background-image: url("../image/croco-land.png");
+    background-size: 330px;
+}
+
+.grid.content.body.water {
+    background-image: url("../image/croco-water.png");
+    background-size: 330px;
+}
