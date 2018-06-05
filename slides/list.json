@@ -1,5 +1,10 @@
 [
     "joy-of-coding.md",
+    {
+        "attr": {
+            "data-background-image": "image/dejavu.jpg"
+        }
+    },
     "croco-loco.md",
     "crocodile-alice.html",
     "crocodile-bob.html",
