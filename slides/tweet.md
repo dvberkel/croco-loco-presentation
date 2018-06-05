@@ -1,0 +1,2 @@
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">After the talk by <a href="https://twitter.com/daan_van_berkel?ref_src=twsrc%5Etfw">@daan_van_berkel</a>, I just bought Kroko Loko. Will check the distribution of cards later. <a href="https://t.co/d8WD3xEr9v">pic.twitter.com/d8WD3xEr9v</a></p>&mdash; Sjoerd Job Postmus (@sjoerdjob) <a href="https://twitter.com/sjoerdjob/status/880859640761905153?ref_src=twsrc%5Etfw">June 30, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
