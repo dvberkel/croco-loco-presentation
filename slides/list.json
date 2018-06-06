@@ -37,5 +37,10 @@
     "mock.table.html",
     "mad.md",
     "tweet.md",
-    "postmus.html"
+    "postmus.html",
+    {
+        "attr": {
+            "data-background-image": "image/odd_one_out.jpg"
+        }
+    }    
 ]
