@@ -1,0 +1,1 @@
+[![project implicit](image/project-implicit.png)](https://implicit.harvard.edu/implicit/takeatest.html)<!-- .element background: white -->
