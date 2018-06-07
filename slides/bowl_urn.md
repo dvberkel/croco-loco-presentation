@@ -1,0 +1,1 @@
+![Bowl & Urn model](image/bowl_urn.png)
