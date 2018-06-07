@@ -45,5 +45,10 @@
     },
     "model.md",
     "bowl_urn.md",
-    "newton.md"
+    "newton.md",
+    {
+        "attr": {
+            "data-background-image": "image/chi_square_distribution.png"
+        }
+    }
 ]
